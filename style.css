@@ -239,6 +239,11 @@ section {
   cursor: pointer;
 }
 
+#project-2 {
+  position: relative;
+  top: 0px;
+}
+
 .btn-color-1,
 .btn-color-2:hover {
   background: rgb(53, 53, 53);
